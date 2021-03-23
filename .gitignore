@@ -1,0 +1,16 @@
+# eidtor
+Thumbs.db
+.idea
+.DS_Store
+.history
+.vscode
+
+# dependencies
+node_modules/
+lib/
+
+# logs
+npm-*.log
+yarn-*.log
+**/logs
+
