@@ -1,6 +1,7 @@
 {
   "validations": {
-    "branch": "/(master|main)/"
+    "branch": "/(master|main)/",
+    "sensitiveData": false
   },
   "prePublishScript": false
 }
