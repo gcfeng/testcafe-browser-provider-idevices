@@ -1,0 +1,5 @@
+{
+  "validations": {
+    "branch": "/(master|main)/"
+  }
+}
